@@ -1,0 +1,20 @@
+# Gradle build folders
+/build/
+/.gradle/
+
+# Eclipse / IntelliJ / VS Code files
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java classes
+*.class
